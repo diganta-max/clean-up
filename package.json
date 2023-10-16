@@ -1,0 +1,11 @@
+{
+  "name": "clean-up",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cleanup1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "diganta",
+  "license": "ISC"
+}
